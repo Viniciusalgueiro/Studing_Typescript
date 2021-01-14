@@ -1,5 +1,4 @@
-import { Query } from "mongoose";
-import { Resolver } from "type-graphql";
+import {Query, Resolver } from "type-graphql";
 import Category from "./category";
 import CategorySchema from '../../model/CategorySchema';
 

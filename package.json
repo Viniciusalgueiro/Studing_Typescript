@@ -1,12 +1,12 @@
 {
-  "name": "StudingNode",
+  "name": "studingnode",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/Viniciusalgueiro/Studing_Node.git",
   "author": "Viniciusalgueiro <viniciussalgueiro09@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "ts-node-dev srcserver.ts"
+    "dev": "ts-node-dev src/utils/server.ts"
   },
   "devDependencies": {
     "@types/mongoose": "^5.10.3",
